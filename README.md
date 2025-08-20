@@ -16,7 +16,7 @@ CALCULADORA DE ORÇAMENTO PESSOAL
 - passagem de dados e componentes ("pai e filho")
 - Renderização Condicional: 
 - lógica para exibir diferentes partes da interface com base no estado da aplicação.
-- 
+- ^^
 - 
 - 
 - 
