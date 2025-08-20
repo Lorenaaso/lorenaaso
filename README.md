@@ -1,17 +1,26 @@
-## Hi there 👋
-
+CALCULADORA DE ORÇAMENTO PESSOAL
 <!--
 **Lorenaaso/lorenaaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> hi 
-thanks
+- Tecnologias ultilizadas:
+- Reagir;
+- JavaScript (ES6+);
+- HTML5;
+- CSS3.
+- Gerenciamento de Estado;
+- ultilização do hook"useState" para controlar os dados da aplicação de forma reativa;
+- Componentização:
+- criação e reutilização de componentes para UI, como "Botão" e "Input";
+- Adereços: 
+- passagem de dados e componentes ("pai e filho")
+- Renderização Condicional: 
+- lógica para exibir diferentes partes da interface com base no estado da aplicação.
+- 
+- 
+- 
+- 
+- 
+-
+--> 
+
