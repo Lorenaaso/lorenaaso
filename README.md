@@ -6,7 +6,7 @@ O objetivo do trabalho foi analisar um caso real de *Inteligência Artificial* c
 
 ---
 
-## 🧩 Conteúdo do Repositório
+## 🧩 Conteúdo do Repositório 
 
 - *Relatório Completo (PDF)*  
   Documento com a análise detalhada do caso:
