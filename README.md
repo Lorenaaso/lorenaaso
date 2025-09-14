@@ -1,26 +1,29 @@
-CALCULADORA DE ORÇAMENTO PESSOAL
-<!--
-**Lorenaaso/lorenaaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📄 Relatório de IA e Ética - Algoritmo de Recrutamento da Amazon
 
+Este repositório contém o relatório desenvolvido para a disciplina *Tendências e Mercado de Trabalho em TI, do curso de **Análise e Desenvolvimento de Sistemas da Universidade Cruzeiro do Sul*.  
 
-- Tecnologias ultilizadas:
-- Reagir;
-- JavaScript (ES6+);
-- HTML5;
-- CSS3.
-- Gerenciamento de Estado;
-- ultilização do hook"useState" para controlar os dados da aplicação de forma reativa;
-- Componentização:
-- criação e reutilização de componentes para UI, como "Botão" e "Input";
-- Adereços: 
-- passagem de dados e componentes ("pai e filho")
-- Renderização Condicional: 
-- lógica para exibir diferentes partes da interface com base no estado da aplicação.
-- ^^
-- 
-- 
-- 
-- 
--
---> 
+O objetivo do trabalho foi analisar um caso real de *Inteligência Artificial* com impacto ético, aplicando o framework de análise de viés, transparência, impacto social e responsabilidade.
+
+---
+
+## 🧩 Conteúdo do Repositório
+
+- *Relatório Completo (PDF)*  
+  Documento com a análise detalhada do caso:
+  - Algoritmo de recrutamento da Amazon
+  - Identificação de viés e injustiça
+  - Impacto social e responsabilidade
+  - Recomendações de melhorias
+
+---
+
+## 👩‍💻 Autoria
+
+- Desenvolvido por: *Luiza Lorena*  
+- Curso: *Análise e Desenvolvimento de Sistemas*  
+- Universidade Cruzeiro do Sul – 2025  
+
+---
+
+## 🔗 Link para o PDF [Algoritmo de Recrutamento da Amazon.docx](https://github.com/user-attachments/files/22321108/Algoritmo.de.Recrutamento.da.Amazon.docx)
 
